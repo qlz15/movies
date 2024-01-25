@@ -135,35 +135,30 @@ body{
     right: 0;
 }
 .swiper-slide.slide-1{
-    background-image: url(../img/bg/tiger-3.jpeg);
+    background-image: url(img/bg/tiger-3.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .swiper-slide.slide-2{
-    background-image: url(../img/bg/fighter.jpg);
+    background-image: url(img/bg/fighter.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .swiper-slide.slide-3{
-    background-image: url(../img/bg/Salaar_Part_1_–_Ceasefire.jpg);
+    background-image: url(img/bg/Salaar_Part_1_–_Ceasefire.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .swiper-slide.slide-4{
-    background-image: url(../img/bg/blue-pale.svg);
+    background-image: url(img/bg/blue-pale.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-.swiper-slide.slide-5{
-    background-image: url(../img/bg/batman.svg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+
 
 .swiper-slide{
     width: 100%;
